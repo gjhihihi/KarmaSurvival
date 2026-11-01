@@ -13,5 +13,3 @@ plugins {
 }
 
 rootProject.name = 'karmasurvival'
-
-includeBuild '../karma'

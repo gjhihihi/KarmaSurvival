@@ -1,0 +1,13 @@
+{
+  "effect.karma_survival.criminal": "罪恶",
+  "entity.karma_survival.adjudicator": "裁决者",
+  "item.karma_survival.adjudicator_spawn_egg": "裁决者刷怪蛋",
+  "item.minecraft.lingering_potion.effect.criminal_potion": "滞留型罪恶药水",
+  "item.minecraft.lingering_potion.effect.criminal_potion_strong": "滞留型罪恶药水",
+  "item.minecraft.potion.effect.criminal_potion": "罪恶药水",
+  "item.minecraft.potion.effect.criminal_potion_strong": "罪恶药水",
+  "item.minecraft.splash_potion.effect.criminal_potion": "喷溅型罪恶药水",
+  "item.minecraft.splash_potion.effect.criminal_potion_strong": "喷溅型罪恶药水",
+  "item.minecraft.tipped_arrow.effect.criminal_potion": "罪恶药箭",
+  "item.minecraft.tipped_arrow.effect.criminal_potion_strong": "罪恶药箭"
+}

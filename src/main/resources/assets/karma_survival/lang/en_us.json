@@ -1,0 +1,13 @@
+{
+    "effect.karma_survival.criminal": "",
+    "entity.karma_survival.adjudicator": "",
+    "item.karma_survival.adjudicator_spawn_egg": "",
+    "item.minecraft.lingering_potion.effect.criminal_potion": " Lingering Potion",
+    "item.minecraft.lingering_potion.effect.criminal_potion_strong": " Lingering Potion",
+    "item.minecraft.potion.effect.criminal_potion": "",
+    "item.minecraft.potion.effect.criminal_potion_strong": "",
+    "item.minecraft.splash_potion.effect.criminal_potion": "",
+    "item.minecraft.splash_potion.effect.criminal_potion_strong": "",
+    "item.minecraft.tipped_arrow.effect.criminal_potion": "",
+    "item.minecraft.tipped_arrow.effect.criminal_potion_strong": ""
+}

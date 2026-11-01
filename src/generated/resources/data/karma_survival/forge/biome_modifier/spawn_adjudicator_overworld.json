@@ -1,0 +1,27 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:and",
+    "values": [
+      {
+        "type": "forge:not",
+        "value": [
+          "minecraft:deep_dark",
+          "minecraft:mushroom_fields"
+        ]
+      },
+      {
+        "type": "forge:or",
+        "values": [
+          "#minecraft:is_overworld"
+        ]
+      }
+    ]
+  },
+  "spawners": {
+    "type": "karma_survival:adjudicator",
+    "maxCount": 5,
+    "minCount": 3,
+    "weight": 50
+  }
+}
